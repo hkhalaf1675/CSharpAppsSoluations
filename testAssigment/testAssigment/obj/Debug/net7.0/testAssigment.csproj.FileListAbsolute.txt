@@ -1,0 +1,15 @@
+F:\Education\C sharp\testAssigment\testAssigment\bin\Debug\net7.0\testAssigment.exe
+F:\Education\C sharp\testAssigment\testAssigment\bin\Debug\net7.0\testAssigment.deps.json
+F:\Education\C sharp\testAssigment\testAssigment\bin\Debug\net7.0\testAssigment.runtimeconfig.json
+F:\Education\C sharp\testAssigment\testAssigment\bin\Debug\net7.0\testAssigment.dll
+F:\Education\C sharp\testAssigment\testAssigment\bin\Debug\net7.0\testAssigment.pdb
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\testAssigment.csproj.AssemblyReference.cache
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\testAssigment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\testAssigment.AssemblyInfoInputs.cache
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\testAssigment.AssemblyInfo.cs
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\testAssigment.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\testAssigment.dll
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\refint\testAssigment.dll
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\testAssigment.pdb
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\testAssigment.genruntimeconfig.cache
+F:\Education\C sharp\testAssigment\testAssigment\obj\Debug\net7.0\ref\testAssigment.dll
