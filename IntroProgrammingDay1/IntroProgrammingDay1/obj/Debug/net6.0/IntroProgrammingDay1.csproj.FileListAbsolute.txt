@@ -1,0 +1,15 @@
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\bin\Debug\net6.0\IntroProgrammingDay1.exe
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\bin\Debug\net6.0\IntroProgrammingDay1.deps.json
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\bin\Debug\net6.0\IntroProgrammingDay1.runtimeconfig.json
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\bin\Debug\net6.0\IntroProgrammingDay1.dll
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\bin\Debug\net6.0\IntroProgrammingDay1.pdb
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\IntroProgrammingDay1.csproj.AssemblyReference.cache
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\IntroProgrammingDay1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\IntroProgrammingDay1.AssemblyInfoInputs.cache
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\IntroProgrammingDay1.AssemblyInfo.cs
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\IntroProgrammingDay1.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\IntroProgrammingDay1.dll
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\refint\IntroProgrammingDay1.dll
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\IntroProgrammingDay1.pdb
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\IntroProgrammingDay1.genruntimeconfig.cache
+F:\Education\C sharp\IntroProgrammingDay1\IntroProgrammingDay1\obj\Debug\net6.0\ref\IntroProgrammingDay1.dll
