@@ -1,0 +1,8 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Advanced_1\bin\Debug\Advanced_1.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Advanced_1\bin\Debug\Advanced_1.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Advanced_1\bin\Debug\Advanced_1.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Advanced_1\obj\Debug\Advanced_1.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Advanced_1\obj\Debug\Advanced_1.csproj.SuggestedBindingRedirects.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Advanced_1\obj\Debug\Advanced_1.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Advanced_1\obj\Debug\Advanced_1.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Advanced_1\obj\Debug\Advanced_1.pdb
