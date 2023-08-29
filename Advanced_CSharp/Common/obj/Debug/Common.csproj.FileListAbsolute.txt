@@ -1,0 +1,6 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Common\bin\Debug\Common.dll
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Common\bin\Debug\Common.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Common\obj\Debug\Common.dll
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Common\obj\Debug\Common.pdb

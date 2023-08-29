@@ -1,0 +1,8 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Methods_StackTrace_StackFrame\bin\Debug\Methods_StackTrace_StackFrame.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Methods_StackTrace_StackFrame\bin\Debug\Methods_StackTrace_StackFrame.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Methods_StackTrace_StackFrame\bin\Debug\Methods_StackTrace_StackFrame.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Methods_StackTrace_StackFrame\obj\Debug\Methods_StackTrace_StackFrame.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Methods_StackTrace_StackFrame\obj\Debug\Methods_StackTrace_StackFrame.csproj.SuggestedBindingRedirects.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Methods_StackTrace_StackFrame\obj\Debug\Methods_StackTrace_StackFrame.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Methods_StackTrace_StackFrame\obj\Debug\Methods_StackTrace_StackFrame.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Methods_StackTrace_StackFrame\obj\Debug\Methods_StackTrace_StackFrame.pdb

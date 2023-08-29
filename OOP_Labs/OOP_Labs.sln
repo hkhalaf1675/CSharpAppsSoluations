@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_3Lab", "Day_3Lab\Day_3Lab.csproj", "{BD085009-456C-46D7-AD6C-0D584854F8C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_Lab_Polymorphism", "Day4_Lab_Polymorphism\Day4_Lab_Polymorphism.csproj", "{34405A27-A539-48F1-874B-3BCAB3171B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_Lab_Abstraction", "Day5_Lab_Abstraction\Day5_Lab_Abstraction.csproj", "{EC2B79E8-EAB6-4FB0-8834-4CB12ED323CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BD085009-456C-46D7-AD6C-0D584854F8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD085009-456C-46D7-AD6C-0D584854F8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD085009-456C-46D7-AD6C-0D584854F8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34405A27-A539-48F1-874B-3BCAB3171B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34405A27-A539-48F1-874B-3BCAB3171B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34405A27-A539-48F1-874B-3BCAB3171B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34405A27-A539-48F1-874B-3BCAB3171B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2B79E8-EAB6-4FB0-8834-4CB12ED323CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2B79E8-EAB6-4FB0-8834-4CB12ED323CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2B79E8-EAB6-4FB0-8834-4CB12ED323CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2B79E8-EAB6-4FB0-8834-4CB12ED323CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

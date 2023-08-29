@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -174,7 +175,42 @@ namespace TypeCastingg
             Console.WriteLine($"Int default : {a} , Long : {l} , Float : {f} , Double : {d} , Bool : {c} , Char : {ch}");
             #endregion
 
+            #region reference type check if null
+            int[] arr2 = default;//the default of array is null
+            //for (int i = 0; i < arr2.Length; i++)//will throw an error because the value of array is null 
+                //Console.WriteLine(arr2[i]);
+
+            // to avoid nullable exception error
+            for (int i = 0; (arr2 != null) && (i < arr2.Length); i++)
+                Console.Write(arr2[i]);
+
+            // another way 
+            for (int i = 0; i < arr2?.Length; i++)
+                Console.WriteLine(arr2[i]);
+
+            //int arrLength = arr2.Length;// unsafe because arr2 may be null
+            int arrLength2 = arr2?.Length??0;//safe
+
+            Employee emp = default;
+            //Console.WriteLine(emp.dept);//will throw error because it has the value of null
+            //Console.WriteLine(emp.dept.name);//will throw error because it has the value of null
+
+            //to check nullable of class and it's childs
+            Console.WriteLine(emp?.dept?.name??"NA");
+
+            Console.WriteLine("------------------");
+            #endregion
+
+
             Console.ReadKey();
         }
+    }
+    class Employee
+    {
+        public Dept dept;
+    }
+    class Dept
+    {
+        public string name;
     }
 }

@@ -1,0 +1,11 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\bin\Debug\Struct_Enum.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\bin\Debug\Struct_Enum.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\bin\Debug\Struct_Enum.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\bin\Debug\Common.dll
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\bin\Debug\Common.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\obj\Debug\Struct_Enum.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\obj\Debug\Struct_Enum.csproj.SuggestedBindingRedirects.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\obj\Debug\Struct_Enum.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\obj\Debug\Struct_Enum.csproj.CopyComplete
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\obj\Debug\Struct_Enum.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Struct_Enum\obj\Debug\Struct_Enum.pdb

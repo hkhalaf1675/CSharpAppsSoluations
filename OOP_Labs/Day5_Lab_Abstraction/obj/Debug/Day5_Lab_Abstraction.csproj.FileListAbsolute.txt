@@ -1,0 +1,8 @@
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day5_Lab_Abstraction\bin\Debug\Day5_Lab_Abstraction.exe.config
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day5_Lab_Abstraction\bin\Debug\Day5_Lab_Abstraction.exe
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day5_Lab_Abstraction\bin\Debug\Day5_Lab_Abstraction.pdb
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day5_Lab_Abstraction\obj\Debug\Day5_Lab_Abstraction.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day5_Lab_Abstraction\obj\Debug\Day5_Lab_Abstraction.csproj.SuggestedBindingRedirects.cache
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day5_Lab_Abstraction\obj\Debug\Day5_Lab_Abstraction.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day5_Lab_Abstraction\obj\Debug\Day5_Lab_Abstraction.exe
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day5_Lab_Abstraction\obj\Debug\Day5_Lab_Abstraction.pdb

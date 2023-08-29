@@ -1,0 +1,8 @@
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day4_Lab_Polymorphism\bin\Debug\Day4_Lab_Polymorphism.exe.config
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day4_Lab_Polymorphism\bin\Debug\Day4_Lab_Polymorphism.exe
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day4_Lab_Polymorphism\bin\Debug\Day4_Lab_Polymorphism.pdb
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day4_Lab_Polymorphism\obj\Debug\Day4_Lab_Polymorphism.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day4_Lab_Polymorphism\obj\Debug\Day4_Lab_Polymorphism.csproj.SuggestedBindingRedirects.cache
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day4_Lab_Polymorphism\obj\Debug\Day4_Lab_Polymorphism.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day4_Lab_Polymorphism\obj\Debug\Day4_Lab_Polymorphism.exe
+F:\Education\C sharp\CSharpSoluations\OOP_Labs\Day4_Lab_Polymorphism\obj\Debug\Day4_Lab_Polymorphism.pdb
