@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_Lab_Polymorphism", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_Lab_Abstraction", "Day5_Lab_Abstraction\Day5_Lab_Abstraction.csproj", "{EC2B79E8-EAB6-4FB0-8834-4CB12ED323CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_Lab", "Day6_Lab\Day6_Lab.csproj", "{7C5AF5D1-A073-4B8E-856C-F4908F843B6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EC2B79E8-EAB6-4FB0-8834-4CB12ED323CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC2B79E8-EAB6-4FB0-8834-4CB12ED323CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC2B79E8-EAB6-4FB0-8834-4CB12ED323CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5AF5D1-A073-4B8E-856C-F4908F843B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5AF5D1-A073-4B8E-856C-F4908F843B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5AF5D1-A073-4B8E-856C-F4908F843B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5AF5D1-A073-4B8E-856C-F4908F843B6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
