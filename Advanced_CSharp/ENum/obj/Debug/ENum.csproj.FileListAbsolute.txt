@@ -1,0 +1,8 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ENum\bin\Debug\ENum.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ENum\bin\Debug\ENum.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ENum\bin\Debug\ENum.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ENum\obj\Debug\ENum.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ENum\obj\Debug\ENum.csproj.SuggestedBindingRedirects.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ENum\obj\Debug\ENum.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ENum\obj\Debug\ENum.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ENum\obj\Debug\ENum.pdb

@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Common\Common.csproj">
+    <ProjectReference Include="..\Common\Struct_2_class.csproj">
       <Project>{d510cf3e-4e40-469d-807f-6732b1459350}</Project>
-      <Name>Common</Name>
+      <Name>Struct_2_class</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

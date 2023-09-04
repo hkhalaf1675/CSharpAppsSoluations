@@ -1,0 +1,8 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\RefType_PassBy\bin\Debug\RefType_PassBy.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\RefType_PassBy\bin\Debug\RefType_PassBy.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\RefType_PassBy\bin\Debug\RefType_PassBy.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\RefType_PassBy\obj\Debug\RefType_PassBy.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\RefType_PassBy\obj\Debug\RefType_PassBy.csproj.SuggestedBindingRedirects.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\RefType_PassBy\obj\Debug\RefType_PassBy.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\RefType_PassBy\obj\Debug\RefType_PassBy.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\RefType_PassBy\obj\Debug\RefType_PassBy.pdb

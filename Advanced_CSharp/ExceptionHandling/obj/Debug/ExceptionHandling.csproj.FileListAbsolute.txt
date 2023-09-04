@@ -1,0 +1,8 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.SuggestedBindingRedirects.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

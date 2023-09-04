@@ -80,7 +80,8 @@ namespace Common
             _real = _imagin = x;
         }
 
-        // can not define default ctor 
+        // can not define default ctor on struct
+        // because the complier define it 
 
         public override string ToString()
         {
