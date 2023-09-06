@@ -1,0 +1,7 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Contructor\bin\Debug\Class_Contructor.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Contructor\bin\Debug\Class_Contructor.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Contructor\bin\Debug\Class_Contructor.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Contructor\obj\Debug\Class_Contructor.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Contructor\obj\Debug\Class_Contructor.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Contructor\obj\Debug\Class_Contructor.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Contructor\obj\Debug\Class_Contructor.pdb

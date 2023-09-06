@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Avanced_CSharp_Labs\Avanced_CSharp_Labs\bin\Debug\Avanced_CSharp_Labs.exe.config
+C:\Users\LENOVO\source\repos\Avanced_CSharp_Labs\Avanced_CSharp_Labs\bin\Debug\Avanced_CSharp_Labs.exe
+C:\Users\LENOVO\source\repos\Avanced_CSharp_Labs\Avanced_CSharp_Labs\bin\Debug\Avanced_CSharp_Labs.pdb
+C:\Users\LENOVO\source\repos\Avanced_CSharp_Labs\Avanced_CSharp_Labs\obj\Debug\Avanced_CSharp_Labs.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Avanced_CSharp_Labs\Avanced_CSharp_Labs\obj\Debug\Avanced_CSharp_Labs.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Avanced_CSharp_Labs\Avanced_CSharp_Labs\obj\Debug\Avanced_CSharp_Labs.exe
+C:\Users\LENOVO\source\repos\Avanced_CSharp_Labs\Avanced_CSharp_Labs\obj\Debug\Avanced_CSharp_Labs.pdb
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\bin\Debug\Avanced_CSharp_Labs.exe.config
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\bin\Debug\Avanced_CSharp_Labs.exe
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\bin\Debug\Avanced_CSharp_Labs.pdb
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\obj\Debug\Avanced_CSharp_Labs.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\obj\Debug\Avanced_CSharp_Labs.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\obj\Debug\Avanced_CSharp_Labs.exe
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\obj\Debug\Avanced_CSharp_Labs.pdb
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\bin\Debug\Common.dll
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\bin\Debug\Common.pdb
+F:\Education\C sharp\CSharpSoluations\Avanced_CSharp_Labs\Avanced_CSharp_Labs\obj\Debug\Avanced_CSharp_Labs.csproj.CopyComplete

@@ -26,8 +26,10 @@ namespace Indexer
             Console.WriteLine(pb["asd"]);
             Console.WriteLine(pb[4]);
 
-            for(int i=0; i<pb.Size; i++)
+            for (int i = 0; i < pb.Size; i++)
                 Console.WriteLine(pb[i]);
+
+
 
         }
     }

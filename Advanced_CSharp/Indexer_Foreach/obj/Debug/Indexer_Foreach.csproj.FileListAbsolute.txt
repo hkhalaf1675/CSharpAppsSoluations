@@ -1,0 +1,7 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Indexer_Foreach\bin\Debug\Indexer_Foreach.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Indexer_Foreach\bin\Debug\Indexer_Foreach.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Indexer_Foreach\bin\Debug\Indexer_Foreach.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Indexer_Foreach\obj\Debug\Indexer_Foreach.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Indexer_Foreach\obj\Debug\Indexer_Foreach.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Indexer_Foreach\obj\Debug\Indexer_Foreach.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Indexer_Foreach\obj\Debug\Indexer_Foreach.pdb

@@ -1,4 +1,4 @@
-﻿using Common;
+﻿//using Struct_2_class;
 using System;
 using System.Collections.Generic;
 using System.Linq;
