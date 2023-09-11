@@ -1,0 +1,7 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Interface\bin\Debug\Interface_ExceptionHandling.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Interface\bin\Debug\Interface_ExceptionHandling.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Interface\bin\Debug\Interface_ExceptionHandling.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Interface\obj\Debug\Interface_ExceptionHandling.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Interface\obj\Debug\Interface_ExceptionHandling.pdb

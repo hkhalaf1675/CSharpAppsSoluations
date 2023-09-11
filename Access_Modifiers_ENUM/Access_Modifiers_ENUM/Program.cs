@@ -10,7 +10,7 @@ namespace Access_Modifiers_ENUM
         {
             #region Access Modeifer
             //-->>Access Modifer
-            //  --> it is keyword to determine visablity of code memeber that used access modofer on it
+            //  --> it is keyword to determine visablity of code memeber that used access modifer on it
             //  --> or scope of code member
             //  --> all access modifer have the same rule and can every code member use it
             //  -->public : every one see it{on the sam eproject or on another project}
@@ -64,7 +64,7 @@ namespace Access_Modifiers_ENUM
             #region Variable Scope
             // variables scope
             // scope mean all betwwen {}
-            //static members can not reach to non static member
+            // static members can not reach to non static member
             // --> class level : can see it on place on the class scope : 
             // --> if on class there is vaiable { private or public } can not reacc to it on static function on the sam class
             // --> to reach to it you create object of the class and call it by the object

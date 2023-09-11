@@ -1,0 +1,7 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Overriding\bin\Debug\Overriding.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Overriding\bin\Debug\Overriding.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Overriding\bin\Debug\Overriding.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Overriding\obj\Debug\Overriding.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Overriding\obj\Debug\Overriding.pdb

@@ -8,7 +8,15 @@ namespace Class_Contructor
 {
     internal class Car
     {
-        int id;
+        int id = 1;
+        // the compiler will take id = 1;
+        // and put it the first code line on the Ctor
+
+        // if the Ctor take parameter id and assign it value to the id attribute
+        // Ctor(int ID){
+        //  id = 1;
+        //  id = ID
+        // } that will happen
 
         int currentSpeed;
 

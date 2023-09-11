@@ -39,15 +39,18 @@ namespace Day2_Lab
 
             gradList[0] = new PostGraduate(1, "Hassan Khalaf");
             gradList[1] = new PostGraduate(2, "Ahmed Tawfik");
-            gradList[4] = new PostGraduate(3, "Mohamed Tawfik");
+            gradList[2] = new PostGraduate(3, "Mohamed Tawfik");
 
-            Console.WriteLine(gradList[0]);
+            //Console.WriteLine(gradList[0]);
 
             var e = gradList.GetEnumerator();
             while(e.MoveNext())
                 Console.WriteLine(e.Current);
 
             #endregion
+
+
+            
         }
     }
 }

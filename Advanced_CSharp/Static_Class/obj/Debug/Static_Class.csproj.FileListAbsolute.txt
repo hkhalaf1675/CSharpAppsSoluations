@@ -1,0 +1,7 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Static_Class\bin\Debug\Static_Class.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Static_Class\bin\Debug\Static_Class.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Static_Class\bin\Debug\Static_Class.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Static_Class\obj\Debug\Static_Class.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Static_Class\obj\Debug\Static_Class.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Static_Class\obj\Debug\Static_Class.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Static_Class\obj\Debug\Static_Class.pdb

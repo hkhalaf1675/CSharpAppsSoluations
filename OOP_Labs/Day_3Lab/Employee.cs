@@ -8,6 +8,7 @@ namespace Day_3Lab
 {
     internal class Employee:Person
     {
+        static int EmployeesCount;
         protected int _age;
         protected string _certf;//can acces it on the class and by the childs of that class
         internal int exper;//can access it on the class or on the same project
@@ -27,6 +28,15 @@ namespace Day_3Lab
         //}
         #endregion
 
+        public static int Count
+        {
+            get { return EmployeesCount; }
+        }
+
+        static Employee()
+        {
+            EmployeesCount = 0;
+        }
         public Employee()
         {
             _id = 1;
@@ -35,6 +45,7 @@ namespace Day_3Lab
             _certf = "computer and information";
             exper = 3;
             salary = 5000;
+            EmployeesCount++;
         }
 
         public void ShowData()
@@ -48,5 +59,19 @@ namespace Day_3Lab
             Console.WriteLine($" ,Age : {_age} , Certifcation : {_certf}");
         }
 
+        public double GetBouns()
+        {
+            return salary * 0.1;
+        }
+
+        public void DeepCopy( Employee emp)
+        {
+            this._id = emp._id;
+            this._name = emp._name;
+            this._age = emp._age;
+            this._certf = emp._certf;
+            this.salary = emp.salary;
+            this.exper = emp.exper;
+        }
     }
 }

@@ -1,0 +1,7 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Eqaulity\bin\Debug\Class_Eqaulity.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Eqaulity\bin\Debug\Class_Eqaulity.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Eqaulity\bin\Debug\Class_Eqaulity.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Eqaulity\obj\Debug\Class_Eqaulity.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Eqaulity\obj\Debug\Class_Eqaulity.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Eqaulity\obj\Debug\Class_Eqaulity.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Class_Eqaulity\obj\Debug\Class_Eqaulity.pdb

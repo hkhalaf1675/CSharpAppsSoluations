@@ -47,7 +47,7 @@ namespace TypeCastingg
             Console.WriteLine(lg2);
 
             //to check if there is loss on data or overflow of explcit casting : use checked keyword
-            // --> there is unchecked block used in checked block if there block of code i do not need to checked it
+            // --> there is unchecked block used in unchecked block if there block of code i do not need to checked it
             long lg3 = 123456789123456789;
             int sm3 = 12345;
 
@@ -85,6 +85,22 @@ namespace TypeCastingg
 
             int? intNull = null;
             intNull = 50;//the same of Nullable<int> datatype
+
+            int xx = 5;
+            //int y = null; //error can not put value of nullable type on int type {compiler error }
+            Nullable<int> xNull = null;// make type of int can accespt the null
+            int? xNull2 = null;// another way to make int type accespt null
+
+            //check if the xNull equal null or has value on it
+            if(xNull.HasValue)
+                Console.WriteLine(xNull);
+
+            // another way to check the xnull equals null or has value
+            // if equals null print 0
+            // else print the value on it
+            Console.WriteLine(xNull2??0);
+
+
             #endregion
 
             #region Casting from reference type to value type(boxing & unboxing)

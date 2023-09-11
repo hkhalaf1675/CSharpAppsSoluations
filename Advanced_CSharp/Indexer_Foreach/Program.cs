@@ -36,6 +36,9 @@ namespace Indexer_Foreach
             foreach (var item in stdList)
                 Console.WriteLine(item);
 
+            var ll = stdList.GetEnumerator();
+            for(; ll.MoveNext();)
+                Console.WriteLine(ll.Current);
         }
     }
 }
