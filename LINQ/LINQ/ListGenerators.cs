@@ -67,7 +67,7 @@ namespace LINQ
         }
     }
 
-    public class Product
+    public class Product:IComparable
     {
         #region default Properties
         public Int64 ProductID { get; set; }
@@ -75,12 +75,23 @@ namespace LINQ
         public String Category { get; set; }
         public Decimal UnitPrice { get; set; }
         public Int32 UnitsInStock { get; set; }
+
+        
         #endregion
 
         // Tostring Method to use it on showwing data
         public override string ToString()
         {
             return $"ProductID:{ProductID},ProductName:{ProductName},Category{Category},UnitPrice:{UnitPrice},UnitsInStock:{UnitsInStock}";
+        }
+
+        // compare denpending on price
+        public int CompareTo(object obj)
+        {
+            if (obj is Product P)
+                return this.UnitPrice.CompareTo(P.UnitPrice);
+            else
+                return -1;
         }
     }
 

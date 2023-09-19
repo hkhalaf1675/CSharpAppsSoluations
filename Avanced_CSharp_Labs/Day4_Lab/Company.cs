@@ -56,7 +56,7 @@ namespace Day4_Lab
                         {
                             // the code of event here-----------------------------
                             Suppliers sup = new Suppliers();
-                            sup.QuantityWarning += ProductNeed(item.Key, new EventArgs());
+                            sup.QuantityWarning += Recive_Product;
                         }
                         break;
                     }
@@ -68,9 +68,9 @@ namespace Day4_Lab
             }
         }
         // method to send warning of product quantity to supplier
-        public void ProductNeed(Product product,EventArgs e)
+        public void Recive_Product(object s, EventArgs e)
         {
-            Console.WriteLine($"{product.Name} is almost finised");
+            Console.WriteLine($" is almost finised");
         }
     }
 }

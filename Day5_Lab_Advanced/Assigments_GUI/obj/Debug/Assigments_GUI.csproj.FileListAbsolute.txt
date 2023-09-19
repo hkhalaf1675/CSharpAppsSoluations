@@ -1,0 +1,10 @@
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\bin\Debug\Assigments_GUI.exe.config
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\bin\Debug\Assigments_GUI.exe
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\bin\Debug\Assigments_GUI.pdb
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\obj\Debug\Assigments_GUI.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\obj\Debug\Assigments_GUI.Properties.Resources.resources
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\obj\Debug\Assigments_GUI.csproj.GenerateResource.cache
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\obj\Debug\Assigments_GUI.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\obj\Debug\Assigments_GUI.exe
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\obj\Debug\Assigments_GUI.pdb
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\Assigments_GUI\obj\Debug\Assigments_GUI.Converter_Form.resources

@@ -1,0 +1,10 @@
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\bin\Debug\Calculatoe.exe.config
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\bin\Debug\Calculatoe.exe
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\bin\Debug\Calculatoe.pdb
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\obj\Debug\Calculatoe.Form1.resources
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\obj\Debug\Calculatoe.Properties.Resources.resources
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\obj\Debug\Calculatoe.exe
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\Calculatoe\obj\Debug\Calculatoe.pdb

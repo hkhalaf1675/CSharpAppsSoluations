@@ -1,0 +1,10 @@
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\bin\Debug\Day6_Lab_Tas3.exe.config
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\bin\Debug\Day6_Lab_Tas3.exe
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\bin\Debug\Day6_Lab_Tas3.pdb
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\obj\Debug\Day6_Lab_Tas3.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\obj\Debug\Day6_Lab_Tas3.Form1.resources
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\obj\Debug\Day6_Lab_Tas3.Properties.Resources.resources
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\obj\Debug\Day6_Lab_Tas3.csproj.GenerateResource.cache
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\obj\Debug\Day6_Lab_Tas3.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\obj\Debug\Day6_Lab_Tas3.exe
+F:\Education\C sharp\CSharpSoluations\Day6_Lab_WinForm_Day_2\Day6_Lab_Tas3\obj\Debug\Day6_Lab_Tas3.pdb

@@ -1,0 +1,10 @@
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\bin\Debug\RegisterationForm.exe.config
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\bin\Debug\RegisterationForm.exe
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\bin\Debug\RegisterationForm.pdb
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\obj\Debug\RegisterationForm.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\obj\Debug\RegisterationForm.Registeration.resources
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\obj\Debug\RegisterationForm.Properties.Resources.resources
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\obj\Debug\RegisterationForm.csproj.GenerateResource.cache
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\obj\Debug\RegisterationForm.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\obj\Debug\RegisterationForm.exe
+F:\Education\C sharp\CSharpSoluations\Assigments_GUI\RegisterationForm\obj\Debug\RegisterationForm.pdb

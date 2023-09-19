@@ -13,10 +13,10 @@ namespace Day4_Lab
 
         public event EventHandler QuantityWarning;
 
-        public void SupplyProduct(Product product,int Quantity)
+        public void SupplyProduct(Product product, EventArgs e)
         {
-            Console.WriteLine();
-            QuantityWarning(product,new EventArgs());
+            Console.WriteLine("From Suppliers");
+            this.QuantityWarning(product,e);
         }
     }
 }

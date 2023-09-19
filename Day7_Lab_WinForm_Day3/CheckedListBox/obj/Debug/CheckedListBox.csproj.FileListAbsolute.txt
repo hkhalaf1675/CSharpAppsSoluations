@@ -1,0 +1,10 @@
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\bin\Debug\CheckedListBox.exe
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\bin\Debug\CheckedListBox.pdb
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\obj\Debug\CheckedListBox.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\obj\Debug\CheckedListBox.Form1.resources
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\obj\Debug\CheckedListBox.Properties.Resources.resources
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\obj\Debug\CheckedListBox.csproj.GenerateResource.cache
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\obj\Debug\CheckedListBox.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\obj\Debug\CheckedListBox.exe
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\CheckedListBox\obj\Debug\CheckedListBox.pdb

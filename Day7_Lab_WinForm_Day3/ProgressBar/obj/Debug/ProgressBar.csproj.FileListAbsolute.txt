@@ -1,0 +1,10 @@
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\bin\Debug\ProgressBar.exe.config
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\bin\Debug\ProgressBar.exe
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\bin\Debug\ProgressBar.pdb
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\obj\Debug\ProgressBar.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\obj\Debug\ProgressBar.exe
+F:\Education\C sharp\CSharpSoluations\Day7_Lab_WinForm_Day3\ProgressBar\obj\Debug\ProgressBar.pdb

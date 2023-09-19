@@ -4,8 +4,10 @@
 //Console.WriteLine(a.Equals(b));
 //Console.WriteLine(a == b);
 
-int[] arr = new int[5] { 1, 2, 3, 4, 5 };
-var res = arr[..^3];
+var numbersList = Enumerable.Range(0, 100).ToList();
+var resul = numbersList[^1];// last element
+resul = numbersList[^3];
 
-foreach(int item in res)
-    Console.WriteLine(item);    
+Console.WriteLine(resul);
+
+var resRange = numbersList[..^4];
