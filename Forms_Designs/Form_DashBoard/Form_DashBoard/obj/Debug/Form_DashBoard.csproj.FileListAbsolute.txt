@@ -1,0 +1,10 @@
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\bin\Debug\Form_DashBoard.exe.config
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\bin\Debug\Form_DashBoard.exe
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\bin\Debug\Form_DashBoard.pdb
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\obj\Debug\Form_DashBoard.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\obj\Debug\Form_DashBoard.panelMenuVertical.resources
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\obj\Debug\Form_DashBoard.Properties.Resources.resources
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\obj\Debug\Form_DashBoard.csproj.GenerateResource.cache
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\obj\Debug\Form_DashBoard.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\obj\Debug\Form_DashBoard.exe
+F:\Education\C sharp\CSharpSoluations\Forms_Designs\Form_DashBoard\Form_DashBoard\obj\Debug\Form_DashBoard.pdb
