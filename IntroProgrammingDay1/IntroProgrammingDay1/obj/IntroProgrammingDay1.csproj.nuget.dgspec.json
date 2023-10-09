@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Education\\C sharp\\IntroProgrammingDay1\\IntroProgrammingDay1\\IntroProgrammingDay1.csproj": {}
+    "F:\\Education\\C sharp\\CSharpSoluations\\IntroProgrammingDay1\\IntroProgrammingDay1\\IntroProgrammingDay1.csproj": {}
   },
   "projects": {
-    "F:\\Education\\C sharp\\IntroProgrammingDay1\\IntroProgrammingDay1\\IntroProgrammingDay1.csproj": {
+    "F:\\Education\\C sharp\\CSharpSoluations\\IntroProgrammingDay1\\IntroProgrammingDay1\\IntroProgrammingDay1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Education\\C sharp\\IntroProgrammingDay1\\IntroProgrammingDay1\\IntroProgrammingDay1.csproj",
+        "projectUniqueName": "F:\\Education\\C sharp\\CSharpSoluations\\IntroProgrammingDay1\\IntroProgrammingDay1\\IntroProgrammingDay1.csproj",
         "projectName": "IntroProgrammingDay1",
-        "projectPath": "F:\\Education\\C sharp\\IntroProgrammingDay1\\IntroProgrammingDay1\\IntroProgrammingDay1.csproj",
-        "packagesPath": "C:\\Users\\htawf\\.nuget\\packages\\",
-        "outputPath": "F:\\Education\\C sharp\\IntroProgrammingDay1\\IntroProgrammingDay1\\obj\\",
+        "projectPath": "F:\\Education\\C sharp\\CSharpSoluations\\IntroProgrammingDay1\\IntroProgrammingDay1\\IntroProgrammingDay1.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "F:\\Education\\C sharp\\CSharpSoluations\\IntroProgrammingDay1\\IntroProgrammingDay1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\htawf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

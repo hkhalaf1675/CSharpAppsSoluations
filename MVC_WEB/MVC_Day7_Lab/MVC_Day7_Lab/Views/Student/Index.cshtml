@@ -3,6 +3,20 @@
     ViewBag.Title = "Index";
 }
 <div class="container">
+    @if (TempData["updateStud"] != null)
+    {
+        <div class="alert alert-dismissible alert-warning">
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            <strong>@TempData["updateStud"]</strong> was Updated successfully
+        </div>
+    }
+    @if (TempData["DeletedStudent"] != null)
+    {
+        <div class="alert alert-dismissible alert-danger">
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            <strong>@TempData["DeletedStudent"]</strong> was Deleted successfully
+        </div>
+    }
     <table class="table">
         <tr>
             <th>ID</th>
@@ -22,8 +36,8 @@
                     <td>@item.Address</td>
                     <td>@item.BirthDate</td>
                     <td>
-                        <a class="btn btn-danger" asp-action="" asp-controller="Student">Delete</a>
-                        <a class="btn btn-primary" asp-action="" asp-controller="Student">Update</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-controller="Student" asp-route-id="@item.Id">Delete</a>
+                        <a class="btn btn-primary" asp-action="Update" asp-controller="Student" asp-route-id="@item.Id">Update</a>
                     </td>
                 </tr>
             }

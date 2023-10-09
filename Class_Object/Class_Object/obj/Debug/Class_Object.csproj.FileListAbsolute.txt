@@ -1,8 +1,0 @@
-F:\Education\C sharp\CSharpSoluations\Class_Object\Class_Object\bin\Debug\Class_Object.exe.config
-F:\Education\C sharp\CSharpSoluations\Class_Object\Class_Object\bin\Debug\Class_Object.exe
-F:\Education\C sharp\CSharpSoluations\Class_Object\Class_Object\bin\Debug\Class_Object.pdb
-F:\Education\C sharp\CSharpSoluations\Class_Object\Class_Object\obj\Debug\Class_Object.csproj.AssemblyReference.cache
-F:\Education\C sharp\CSharpSoluations\Class_Object\Class_Object\obj\Debug\Class_Object.csproj.SuggestedBindingRedirects.cache
-F:\Education\C sharp\CSharpSoluations\Class_Object\Class_Object\obj\Debug\Class_Object.csproj.CoreCompileInputs.cache
-F:\Education\C sharp\CSharpSoluations\Class_Object\Class_Object\obj\Debug\Class_Object.exe
-F:\Education\C sharp\CSharpSoluations\Class_Object\Class_Object\obj\Debug\Class_Object.pdb

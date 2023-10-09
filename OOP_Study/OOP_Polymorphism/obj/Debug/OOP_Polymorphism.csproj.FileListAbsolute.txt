@@ -1,7 +1,0 @@
-F:\Education\C sharp\CSharpSoluations\OOP_Study\OOP_Polymorphism\bin\Debug\OOP_Polymorphism.exe.config
-F:\Education\C sharp\CSharpSoluations\OOP_Study\OOP_Polymorphism\bin\Debug\OOP_Polymorphism.exe
-F:\Education\C sharp\CSharpSoluations\OOP_Study\OOP_Polymorphism\bin\Debug\OOP_Polymorphism.pdb
-F:\Education\C sharp\CSharpSoluations\OOP_Study\OOP_Polymorphism\obj\Debug\OOP_Polymorphism.csproj.AssemblyReference.cache
-F:\Education\C sharp\CSharpSoluations\OOP_Study\OOP_Polymorphism\obj\Debug\OOP_Polymorphism.csproj.CoreCompileInputs.cache
-F:\Education\C sharp\CSharpSoluations\OOP_Study\OOP_Polymorphism\obj\Debug\OOP_Polymorphism.exe
-F:\Education\C sharp\CSharpSoluations\OOP_Study\OOP_Polymorphism\obj\Debug\OOP_Polymorphism.pdb

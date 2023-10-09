@@ -1,8 +1,0 @@
-F:\Education\C sharp\CSharpSoluations\EssamAbdelNaby\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
-F:\Education\C sharp\CSharpSoluations\EssamAbdelNaby\Indexer\obj\Debug\Indexer.csproj.SuggestedBindingRedirects.cache
-F:\Education\C sharp\CSharpSoluations\EssamAbdelNaby\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
-F:\Education\C sharp\CSharpSoluations\EssamAbdelNaby\Indexer\bin\Debug\Indexer.exe.config
-F:\Education\C sharp\CSharpSoluations\EssamAbdelNaby\Indexer\bin\Debug\Indexer.exe
-F:\Education\C sharp\CSharpSoluations\EssamAbdelNaby\Indexer\bin\Debug\Indexer.pdb
-F:\Education\C sharp\CSharpSoluations\EssamAbdelNaby\Indexer\obj\Debug\Indexer.exe
-F:\Education\C sharp\CSharpSoluations\EssamAbdelNaby\Indexer\obj\Debug\Indexer.pdb
