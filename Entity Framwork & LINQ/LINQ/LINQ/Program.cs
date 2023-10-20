@@ -316,7 +316,7 @@ namespace LINQ
 
             #endregion
 
-            #region Aggregate - Imidiate Exuction { return values } {Max , Min , Avg , Sum}
+            #region Aggregate - Imidiate Exuction { return values } {Max , Min , MaxBy , MinBy , Avg , Sum}
 
             //decimal maxPrice = ProductList.Max(P => P.UnitPrice);
             //Console.WriteLine(maxPrice);
@@ -341,6 +341,14 @@ namespace LINQ
 
             //int productCountBasedonCondition = ProductList.Count(P => P.UnitsInStock == 0);
             //Console.WriteLine(productCountBasedonCondition);
+
+            #region MaxBy & MinBy
+            // MaxBy , MinBy : new features on core 6.0
+            // the Max , Min : if used on class it must implement IComparable<>
+            // but on MaxBy(take lamda expression) 
+
+
+            #endregion
 
             #endregion
 
@@ -469,6 +477,17 @@ namespace LINQ
             res = seq1.All(Num => Num >= 5);// return false
 
             Console.WriteLine(res);
+            #endregion
+
+            #region Join
+            // Join
+            // ->  join _ group join
+            // --> var res = context.TableName1.include(TableName2,Foreign Key,Primary Key,items needed[Select]).Where().Join(....)
+            // --> var res = from T1 iin TableName1
+            //               join T2 iin TableName2
+            //               on FK equals PK
+            //               where [condition]
+            //               select new { } 
             #endregion
 
             #endregion

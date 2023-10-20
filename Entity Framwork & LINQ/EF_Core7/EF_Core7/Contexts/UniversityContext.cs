@@ -13,7 +13,7 @@ namespace EF_Core7.Contexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=UniversityDB;Integrated Security=true;TrustServerCertificate=True",X => X.UseDateOnlyTimeOnly());
+            optionsBuilder.UseLazyLoadingProxies().UseSqlServer("Data Source=.;Initial Catalog=UniversityDB;Integrated Security=true;TrustServerCertificate=True",X => X.UseDateOnlyTimeOnly());
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -120,8 +120,10 @@ namespace EF_Core7.Contexts
                     .HasBaseType<Employee>();
 
             modelBuilder.Entity<PartTimeEmployee>()
-                .HasBaseType<Employee>(); 
+                .HasBaseType<Employee>();
             #endregion
+
+            //modelBuilder.Entity<Department>().ToView("ViewNameOnDatabase").HasNoKey();
 
             base.OnModelCreating(modelBuilder);
 

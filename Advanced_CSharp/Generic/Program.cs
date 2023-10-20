@@ -8,6 +8,7 @@ namespace Generic
 {
     internal class Program
     {
+        // generic is usefull that we write the code once an d the git complier detect the type and generate the code once
         // generic swap method that swap the data on two variables
         static void SwapGeneric<T>(ref T X, ref T Y)
         {

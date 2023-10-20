@@ -1,4 +1,20 @@
 ﻿
+// Entity Framework .Net Framework
+// -> install EntityFramework
+// -> inherit from Dbcontext
+// -> connection string name on the Ctor chaining ():base("name=connectionName")
+
+#region Auto Migration On EF .Net Framework
+// -> Enable Migrations on EF .Net Framewrok
+// -----> on Package Manager Console : Enable-Migrations
+// ---------- it will create class called Configuration.cs
+// ------------ on the Ctor : make AutomaticMigrationsEnabled = true;
+// ------------- on Package Manager Console : Add-Migration "NameOfMigration"
+// ------------- change the strategy of database to auto migration
+// ------------------  Database.SetInitializer(new MigrateDatabaseToLatestVersion<IntensiveDbContext, Migrations.Configuration>());
+// -------------- on Package Manager Console : Update-Database 
+#endregion
+
 #region Package Manager Console
 // to open package manager console window :-
 // go to View -> Other Windows -> Package Manager Console 
@@ -214,12 +230,139 @@
 
 #endregion
 
+#region Compiste Attribute & Complex Type
+// compiste attribute
+// --> there is optional attribute [Complex Type] put iver class complex
+// ----> but it required if the complex class have user-defined datatype on it
+// -> Rules of create it :
+// ----> 1- create new class that must not have any PK { ID , [Key] , .HasKey() }
+// ----> 2- the class must not have any user-defined datatype ==> all props must be primitive datatypes
+// ----> 3- must be object only on other classes { entities } 
+#endregion
+
 #region Make EF accept Date Only
 // to use DateOnly and TimeOnly on mapping 
 // need to install nuget package 
 // and on the connection string give it the property of package :
 // --> optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=UniversityDB;Integrated Security=true;TrustServerCertificate=True",X => X.UseDateOnlyTimeOnly()); 
 #endregion
+
+#region Get the nagivational property data [Related Data]
+
+// by default navigational property not loaded
+// to get the nagivational property data :- there three ways to do that
+// ---> Expicit loading
+// ---> Eager Loading
+// ---> Lazy Loading
+
+#region 1-Explicit Loading
+// 1-> Expicit Loading : 
+// ---> the related data was got on two requests ( with two connection for database )
+#region Get The One Side Navigational Property
+// -----> if the navigational property one ( not list or any collection )
+// ----------> var emp = context.Employees.Single();
+// -----------------> context.Entry(emp).Reference(E => E.Department).Load(); 
+#endregion
+#region Get The Many Side Navigational Property
+// -----> if the navigational property Many ( list or any collection )
+// ----------> var emp = context.Employees.Single();
+// -----------------> context.Entry(emp).Collection(E => E.Department).Load();  
+#endregion
+#endregion
+
+#region 2-Eager Loading
+// -> 2- Eager Loading يعني بيحصل بدري early get the related data
+// ---> by using include 
+// ---> the related data was got on one request ( one database connection)
+// ---> it use left join query 
+// --> the disadvantages is it get all the related data on local memory if there is data not needed
+
+#region To get one navigational property
+// -----> var emp = context.Employees.Include(E => E.Department).FirstOrDefault(); 
+#endregion
+
+#region To get more than naviagtional property
+// --> if thers is more than navigational property
+// -----> var emp = context.Employees.Include(E => E.Department).Include(E => E.Project).FirstOrDefault();
+#endregion
+
+#region To get navigational property and it's navigational property
+// --> if the naviagtional property has naviagtional propert and you need to get the data of it :
+// -----> var emp = context.Employees.Include(E => E.Department).ThenInclude(D => D.Project).FirstOrDefault();
+#endregion
+#endregion
+
+#region 3-Lazy Loading
+// -> 3- Lazy Loading
+// that get only the needed data of navigational property
+// it is best approach if the related data is large and will effect on performance 
+// ----> if was got one time because will take alot of memory
+// -> to enable the lazy loading :
+// ------> 1- install the package of  EntityFrameworkCore.Proxies
+// ------> 2- use UseLazyLoadingProxies() on configration connection :-
+// ------------------> protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+//                     {
+//                         optionsBuilder.UseLazyLoadingProxies().UseSqlServer("Data Source=.;Initial Catalog=UniversityDB;Integrated Security=true;TrustServerCertificate=True", X => X.UseDateOnlyTimeOnly());
+//                     }
+// can enable the lazy loading without the package of proxies :
+// by inject the ILazyLoader service into an entity : on the class create the ctor
+// --------->> private Employee(ILazyLoader lazyLoader)
+//             {
+//                LazyLoader = lazyLoader;
+//             }
+// ------> 3- before any navigational property use keyword virtual
+// --> it get the related data implicitly without using include(eager) or reference(explicit)
+// --> when the data needed the ef get it from the database
+// --> it get the related data on two requests ( two connections to database )
+// the lazy loading is like explicit loading but implicilty ( need two request ( two database connections)
+// -----> to get data 
+#endregion
+
+#region Eager Loading & Lazy Loading
+// when use eager loading and when use lazy loading
+// -> eager if the navigational property one ( because it is not larger data to make load on memeory 
+//--------------------- and cost one request ( database connection )
+// -> Lazy loading if the navigational property is many {list} : ( because may the data is large data
+// ------------------- and may make load on memory , but will cost two requests to database 
+
+// but on another case
+// -> if there is relation between order and items on resturant
+// --> this navigational property is many on items side
+// ---> and when request order must request it's items because no mean for order without items
+// ----> here should use eager loading because it will cost one request to database rather than 
+// -----> lazy loading that will cost two requests to database
+#endregion
+
+#endregion
+
+#region View
+// View
+// -> create view by code first
+// --> must be use lazy loading
+// --> there is two ways to create view by code first
+// ---> create public class and put on it naviagtional list properties from table [classes] that the data 
+// ------ on view will taked from them
+// ----> on DbContextClass ->by create DbSet<> to the class and create fluent api make the class map ToView("ViewName") and hasNoKey
+// ------- modelBuilder.Entity<Department>().ToView("ViewNameOnDatabase").HasNoKey();
+// --> or can create the view on migration file before update-database
+// ---> and call it by var res = context.Employees.FromSqlRaw("Select * from ViewName"); 
+#endregion
+
+// connection string by inject on ef core
+// 1-> on program.cs
+// -----> IConfiguration configuration = new ConfigurationBuilder()
+//       .SetBasePath(Directory.GetCurrentDirectory())
+//       .AddJsonFile("appsettings.json")
+//       .Build();
+// ---------->>>>>>> before builder.Services.AddControllersWithViews();
+// -----> var connect = builder.Configuration.GetConnectionString("Con1");
+// -----> builder.Services.AddDbContext<SchoolDbContext>(option => option.UseSqlServer(connect));
+// 2-> on Dbcontext class : on ctor 
+// -----> public SchoolDbContext(DbContextOptions<SchoolDbContext> options)
+//        : base(options)
+//    {
+//}
+
 
 #region Close Connection Context.Dispose
 // after using the context ( open the connection to database)
@@ -235,9 +378,13 @@
 
 using EF_Core7.Contexts;
 using EF_Core7.Entites;
+using Microsoft.EntityFrameworkCore;
 using System.Runtime.CompilerServices;
 
 UniversityContext context = new UniversityContext();
+
+var emp = context.Employees.Include(E => E.Department).FirstOrDefault();
+
 
 #region The First Way to Dispose the context after using it
 try
@@ -248,6 +395,9 @@ try
         Age = 25,
         Address = "Sohag"
     };
+
+    var maxby = context.Students.MaxBy(S => S.Age);
+    var maxx = context.Students.Max(S => S.Age);
 
     #region State of Object ( added or no )
     // to  know the state of object related to databse
@@ -286,6 +436,8 @@ try
     var std2 = context.Students.Where(S => S.StudentID == 2).FirstOrDefault(); // this will return one item
 
     Console.WriteLine(std2?.FullName??"NA");
+
+    
 }
 finally
 {

@@ -1,0 +1,7 @@
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Collections\bin\Debug\Collections.exe.config
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Collections\bin\Debug\Collections.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Collections\bin\Debug\Collections.pdb
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Collections\obj\Debug\Collections.exe
+F:\Education\C sharp\CSharpSoluations\Advanced_CSharp\Collections\obj\Debug\Collections.pdb
