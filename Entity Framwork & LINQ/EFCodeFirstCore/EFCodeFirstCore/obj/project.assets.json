@@ -2890,11 +2890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Education\\C sharp\\CSharpSoluations\\EFCodeFirstCore\\EFCodeFirstCore\\EFCodeFirstCore.csproj",
+      "projectUniqueName": "F:\\Education\\C sharp\\CSharpSoluations\\Entity Framwork & LINQ\\EFCodeFirstCore\\EFCodeFirstCore\\EFCodeFirstCore.csproj",
       "projectName": "EFCodeFirstCore",
-      "projectPath": "F:\\Education\\C sharp\\CSharpSoluations\\EFCodeFirstCore\\EFCodeFirstCore\\EFCodeFirstCore.csproj",
+      "projectPath": "F:\\Education\\C sharp\\CSharpSoluations\\Entity Framwork & LINQ\\EFCodeFirstCore\\EFCodeFirstCore\\EFCodeFirstCore.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\Education\\C sharp\\CSharpSoluations\\EFCodeFirstCore\\EFCodeFirstCore\\obj\\",
+      "outputPath": "F:\\Education\\C sharp\\CSharpSoluations\\Entity Framwork & LINQ\\EFCodeFirstCore\\EFCodeFirstCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

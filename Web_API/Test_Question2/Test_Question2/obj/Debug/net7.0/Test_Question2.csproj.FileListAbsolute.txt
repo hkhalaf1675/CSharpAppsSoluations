@@ -1,0 +1,14 @@
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\bin\Debug\net7.0\Test_Question2.exe
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\bin\Debug\net7.0\Test_Question2.deps.json
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\bin\Debug\net7.0\Test_Question2.runtimeconfig.json
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\bin\Debug\net7.0\Test_Question2.dll
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\bin\Debug\net7.0\Test_Question2.pdb
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\obj\Debug\net7.0\Test_Question2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\obj\Debug\net7.0\Test_Question2.AssemblyInfoInputs.cache
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\obj\Debug\net7.0\Test_Question2.AssemblyInfo.cs
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\obj\Debug\net7.0\Test_Question2.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\obj\Debug\net7.0\Test_Question2.dll
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\obj\Debug\net7.0\refint\Test_Question2.dll
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\obj\Debug\net7.0\Test_Question2.pdb
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\obj\Debug\net7.0\Test_Question2.genruntimeconfig.cache
+F:\Education\C sharp\CSharpSoluations\Web_API\Test_Question2\Test_Question2\obj\Debug\net7.0\ref\Test_Question2.dll

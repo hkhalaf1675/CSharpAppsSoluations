@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9WG32/UB0tHcaun3un0B4Vi9Cg3m/bnSkNuF8SLS6R+N5uYxEHBA1A/F9GwOzlfSbD0ctUp1jU7IvdF3xApoiQ==",
+  "dgSpecHash": "kZKQnudSfxWaDJDdwzBXAfMkMWjyLP8rvrPEY9r8EgcjqrBHrdhgooGzTHEXnTJS1QYx9F/pUDshG8gGu97Fnw==",
   "success": true,
-  "projectFilePath": "F:\\Education\\C sharp\\CSharpSoluations\\EFCodeFirstCore\\EFCodeFirstCore\\EFCodeFirstCore.csproj",
+  "projectFilePath": "F:\\Education\\C sharp\\CSharpSoluations\\Entity Framwork & LINQ\\EFCodeFirstCore\\EFCodeFirstCore\\EFCodeFirstCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
