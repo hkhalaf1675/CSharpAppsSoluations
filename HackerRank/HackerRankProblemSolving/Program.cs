@@ -106,6 +106,38 @@ namespace HackerRankProblemSolving
             return grades;
         }
 
+        public static int birthdayCakeCandles(List<int> candles)
+        {
+            int tallestCandle = candles.Max();
+
+            return candles.Count(i => i == tallestCandle);
+        }
+
+        public static string timeConversion(string s)
+        {
+            var sArr = s.ToCharArray();
+
+            char chTime = sArr.First(ch => ch == 'A' || ch == 'P');
+
+            
+        }
+
+        public static int getDiscountedPrice(int barcode)
+        {
+            string baseUrl = "https://jsonmock.hackerrank.com/api/inventory";
+            HttpClient client = new HttpClient();
+
+            var response = client.GetAsync($"{baseUrl}?barcode={barcode}").Result;
+
+            string stringResponse = response.Content.ReadAsStringAsync().Result;
+
+            var objectResponse = JsonConvert.DeserializeObject<ApiResonse>(stringResponse);
+
+            var discountPrice = objectResponse.data[0].price - ((objectResponse.data[0].discount / 100) * objectResponse.data[0].price);
+
+            return int.Parse(discountPrice.ToString("F0"));
+        }
+
         public static List<string> GetTvSeries(int start, int end)
         {
             List<string> seriesNames = new List<string>();
@@ -161,7 +193,6 @@ namespace HackerRankProblemSolving
                         endYear = -1;
                     }
 
-                    // check if the series in the range 
                     if(start>= startYear && end <= endYear)
                     {
                         seriesNames.Add(item.name);
@@ -172,6 +203,23 @@ namespace HackerRankProblemSolving
         }
 
 
+    }
+
+    class ApiResonse
+    {
+        public int page { get; set; }
+        public int total { get; set; }
+        public int total_pages { get; set; }
+        public List<Data> data { get; set; }
+    }
+    class Data
+    {
+        public string barcode { get; set; }
+        public double price { get; set; }
+        public double discount { get; set; }
+        public string item { get; set; }
+        public string category { get; set; }
+        public int available { get; set; }
     }
 
     public class SeriesData
